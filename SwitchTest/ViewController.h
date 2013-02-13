@@ -10,6 +10,4 @@
 
 @interface ViewController : UIViewController
 
-@property (nonatomic, strong) UISwitch *mySwitch;
-
 @end
